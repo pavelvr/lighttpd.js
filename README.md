@@ -5,7 +5,7 @@ A really simple web server written in JavaScript to be ran with [node.js](http:/
 ## Some features:
 
 - Directory listing
-- `index.html` as entry point for a directory (if present)
+- `index.html` as entry point for directories (if present)
 - Simple mimetype detection for some common filetypes
 - Listen interface and port by parameter (defaults to 0.0.0.0:8082)
 - About a hundred lines of code
